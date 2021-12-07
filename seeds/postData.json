@@ -1,0 +1,17 @@
+[
+  {
+    "user_id": 1,
+    "title": "5 Ways to Hone Your JavaScript Skills",
+    "snippet": "Do you want to make your JavaScript skills stand out from the rest? Are you dying to move forward at work? We've put together 5 easy tips and tricks to help impove your JavaScript skills."
+  },
+  {
+    "user_id": 2,
+    "title": "What is React and Why Should You Care?",
+    "snippet": "Have a strong reaction when you hear the word react? Especially when it's in the context of JavaScript? We know react can seem tricky to some, but for us, it's one of our favorites. Learn more here."
+  },
+  {
+    "user_id": 3,
+    "title": "Getting Back to Basics: HTML and CSS",
+    "snippet": "There's nothing wrong with going back to visit our foundational roots. As we like to say, a house is only as good as it's foundation. Keep your foundation strong with a refresher course on HTML and CSS."
+  }
+]
